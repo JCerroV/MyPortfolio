@@ -1,0 +1,13 @@
+{
+    "home" : "Home",
+    "projects": "Projects",
+    "aboutme": "About me",
+    "contact": "Contact",
+
+    "menu": "Menu",
+    "socialnetworks": "Social Media",
+    "copyright": "All rights reserve.",
+
+    "notfound":"Page not found.",
+    "back":"Back home."
+}

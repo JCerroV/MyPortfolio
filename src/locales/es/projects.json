@@ -1,0 +1,6 @@
+{
+    "title":"Mis proyectos.",
+
+    "gameshop":"Este proyecto consiste en el desarrollo de una aplicación web para una tienda de videojuegos utilizando Spring Boot y Angular. Está diseñada tanto para usuarios normales como para administradores, integrando medidas de seguridad en el frontend y el backend. Además, la aplicación incluye un foro comunitario, un sistema de relaciones entre usuarios y funcionalidad de chat en tiempo real.",
+    "portfolio":"Portfolio web personal desarrollado con React, Vite y Tailwind CSS, con el objetivo de dar una pequeña introducción sobre mi, mis habilidades como programador y mis proyectos. La web cuenta con un diseño responsivo, un sistema de multi lenguaje diseñado a partir de i18next, selector de modo claro/ oscuro y un formulario que permite realizar mensajes directos a mi correo electrónico."
+}
